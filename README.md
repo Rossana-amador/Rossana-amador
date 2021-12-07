@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rossana-amador
 - 👀 I’m interested in data, analytics and sustainability
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects to develop and enhance my skills
 - 📫 How to reach me ...
 
 <!---
